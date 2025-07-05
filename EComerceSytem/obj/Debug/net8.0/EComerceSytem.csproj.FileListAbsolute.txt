@@ -1,0 +1,14 @@
+D:\01MasteringC#\FawryTask\EComerceSytem\bin\Debug\net8.0\EComerceSytem.exe
+D:\01MasteringC#\FawryTask\EComerceSytem\bin\Debug\net8.0\EComerceSytem.deps.json
+D:\01MasteringC#\FawryTask\EComerceSytem\bin\Debug\net8.0\EComerceSytem.runtimeconfig.json
+D:\01MasteringC#\FawryTask\EComerceSytem\bin\Debug\net8.0\EComerceSytem.dll
+D:\01MasteringC#\FawryTask\EComerceSytem\bin\Debug\net8.0\EComerceSytem.pdb
+D:\01MasteringC#\FawryTask\EComerceSytem\obj\Debug\net8.0\EComerceSytem.GeneratedMSBuildEditorConfig.editorconfig
+D:\01MasteringC#\FawryTask\EComerceSytem\obj\Debug\net8.0\EComerceSytem.AssemblyInfoInputs.cache
+D:\01MasteringC#\FawryTask\EComerceSytem\obj\Debug\net8.0\EComerceSytem.AssemblyInfo.cs
+D:\01MasteringC#\FawryTask\EComerceSytem\obj\Debug\net8.0\EComerceSytem.csproj.CoreCompileInputs.cache
+D:\01MasteringC#\FawryTask\EComerceSytem\obj\Debug\net8.0\EComerceSytem.dll
+D:\01MasteringC#\FawryTask\EComerceSytem\obj\Debug\net8.0\refint\EComerceSytem.dll
+D:\01MasteringC#\FawryTask\EComerceSytem\obj\Debug\net8.0\EComerceSytem.pdb
+D:\01MasteringC#\FawryTask\EComerceSytem\obj\Debug\net8.0\EComerceSytem.genruntimeconfig.cache
+D:\01MasteringC#\FawryTask\EComerceSytem\obj\Debug\net8.0\ref\EComerceSytem.dll
